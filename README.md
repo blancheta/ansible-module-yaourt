@@ -1,5 +1,7 @@
 # Ansible Module: `yaourt` (Arch Linux AUR package manager)
 
+NOTE: *Very much a work in progress*, currently not usable!
+
 [yaourt](yaourt) is a package manager for [Arch Linux](www.archlinux.org)
 
 ## Prerequisites
